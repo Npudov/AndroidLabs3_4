@@ -1,7 +1,6 @@
 package com.example.androidlabs3_4
 
 import android.content.Intent
-import android.content.Intent.FLAG_ACTIVITY_NEW_TASK
 import android.content.Intent.FLAG_ACTIVITY_SINGLE_TOP
 import android.os.Bundle
 import android.view.Menu
